@@ -1,0 +1,3 @@
+[submodule "mORMot2"]
+	path = mORMot2
+	url = https://github.com/synopse/mORMot2.git
