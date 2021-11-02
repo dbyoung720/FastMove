@@ -1,3 +1,6 @@
 [submodule "mORMot2"]
 	path = mORMot2
 	url = https://github.com/synopse/mORMot2.git
+[submodule "FastMemcpy"]
+	path = FastMemcpy
+	url = https://github.com/skywind3000/FastMemcpy.git
